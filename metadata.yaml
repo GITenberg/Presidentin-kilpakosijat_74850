@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hope, Anthony
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/63
     wikipedia: https://en.wikipedia.org/wiki/Anthony_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74850#Presidentin-kilpakosijat
 gutenberg_issued: '2024-12-07'
 gutenberg_type: Text
 identifiers:
